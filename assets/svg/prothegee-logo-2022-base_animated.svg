@@ -1,0 +1,13 @@
+<!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Copyright Â© 2022 Prana Ron -->
+<svg version="1.1" id="layer1" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1024 1024" style="" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#0F75BC;stroke:#231F20;stroke-width:3;}
+	.st1{fill:#F1592A;stroke:#231F20;stroke-width:3;}
+	.st2{fill:#EC008C;stroke:#231F20;stroke-width:3;}
+</style>
+<path class="st0 gzGUfKDX_0" d="M517.8,365c-98.3,0-178,79.7-178,178s79.7,178,178,178s178-79.7,178-178S616.1,365,517.8,365z M517.8,691.3
+	c-81.9,0-148.2-66.4-148.2-148.2S436,394.9,517.8,394.9S666,461.2,666,543.1S599.7,691.3,517.8,691.3z"></path>
+<path class="st1 gzGUfKDX_1" d="M161.5,662.3L796.6,295.4L779.1,266.5L143.7,632Z"></path>
+<path class="st2 gzGUfKDX_2" d="M335.7,227.5v632.2l547-316.5L335.7,227.5z M366,281.4l452.3,261.8L369.6,802.8L366,281.4z"></path>
+<style data-made-with="vivus-instant">.gzGUfKDX_0{stroke-dasharray:2050 2052;stroke-dashoffset:2051;animation:gzGUfKDX_draw_0 5400ms ease 0ms infinite,gzGUfKDX_fade 5400ms linear 0ms infinite;}.gzGUfKDX_1{stroke-dasharray:1536 1538;stroke-dashoffset:1537;animation:gzGUfKDX_draw_1 5400ms ease 0ms infinite,gzGUfKDX_fade 5400ms linear 0ms infinite;}.gzGUfKDX_2{stroke-dasharray:3459 3461;stroke-dashoffset:3460;animation:gzGUfKDX_draw_2 5400ms ease 0ms infinite,gzGUfKDX_fade 5400ms linear 0ms infinite;}@keyframes gzGUfKDX_draw{100%{stroke-dashoffset:0;}}@keyframes gzGUfKDX_fade{0%{stroke-opacity:1;}92.5925925925926%{stroke-opacity:1;}100%{stroke-opacity:0;}}@keyframes gzGUfKDX_draw_0{14.814814814814813%{stroke-dashoffset: 2051}51.85185185185185%{ stroke-dashoffset: 0;}100%{ stroke-dashoffset: 0;}}@keyframes gzGUfKDX_draw_1{24.074074074074073%{stroke-dashoffset: 1537}61.111111111111114%{ stroke-dashoffset: 0;}100%{ stroke-dashoffset: 0;}}@keyframes gzGUfKDX_draw_2{33.33333333333333%{stroke-dashoffset: 3460}70.37037037037037%{ stroke-dashoffset: 0;}100%{ stroke-dashoffset: 0;}}</style></svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright © 2022 Prana Ron -->
+<svg version="1.1"
+	 id="layer1" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1024 1024"
+	 style="enable-background:new 0 0 1024 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#0F75BC;stroke:#231F20;stroke-width:3;}
+	.st1{fill:#F1592A;stroke:#231F20;stroke-width:3;}
+	.st2{fill:#EC008C;stroke:#231F20;stroke-width:3;}
+</style>
+<path class="st0" d="M517.8,365c-98.3,0-178,79.7-178,178s79.7,178,178,178s178-79.7,178-178S616.1,365,517.8,365z M517.8,691.3
+	c-81.9,0-148.2-66.4-148.2-148.2S436,394.9,517.8,394.9S666,461.2,666,543.1S599.7,691.3,517.8,691.3z"/>
+<polygon class="st1" points="161.5,662.3 796.6,295.4 779.1,266.5 143.7,632 "/>
+<path class="st2" d="M335.7,227.5v632.2l547-316.5L335.7,227.5z M366,281.4l452.3,261.8L369.6,802.8L366,281.4z"/>
+</svg>
